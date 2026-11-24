@@ -4,7 +4,7 @@
 Interaktywny dashboard w Excelu analizujący strukturę przychodów, wolumen sprzedaży oraz czynniki wpływające na wyniki 252 produktów odzieżowych marki Zara.
 
 ### Zbiór danych:
-Źródło: [https://github.com](https://github.com/Mehdi-Benbiba/Zara-Sales-analysis/tree/main))
+Źródło: [https://github.com](https://github.com/Mehdi-Benbiba/Zara-Sales-analysis/tree/main)
 
 ### Zakres analizy:
 * Główne wskaźniki KPI: całkowity przychód, sprzedane sztuki, średnia cena, liczba produktów oraz udział sprzedaży promocyjnej
